@@ -2,7 +2,11 @@
     Personal Website - V2
 </h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<span align="center">
+    ![Hero section](https://github.com/CedrickLupembe/Folio-V.2/blob/master/src/Images/Readme.jpg).
+</span>
+
+
 
 ## Available Scripts
 
