@@ -1,7 +1,7 @@
 <h1 align="center">
     Personal Website - V2
 </h1>
-    ![Hero section](https://github.com/CedrickLupembe/Folio-V.2/blob/master/src/Images/Readme.jpg?row=true).
+    ![Hero section](https://imgur.com/a/wsT5q0G).
 
 
 
