@@ -3,7 +3,7 @@
 </h1>
 
 <span align="center">
-    ![Hero section](https://github.com/CedrickLupembe/Folio-V.2/blob/master/src/Images/Readme.jpg).
+    ![Hero section](https://github.com/CedrickLupembe/Folio-V.2/blob/master/src/Images/Readme.jpg?row=true).
 </span>
 
 
