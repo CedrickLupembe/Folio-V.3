@@ -42,7 +42,7 @@ const Navbar = () => {
 
         <Navigation id='Navigation' className={change ? 'navbar colorChange' : 'none'}>
             
-            <h1><a href="#Hero">Cedric</a></h1>
+            <h1><a href="#Hero">Cedrick</a></h1>
 
             <ul>
                 <li data-aos="fade-down"
