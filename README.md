@@ -1,7 +1,6 @@
 <h1 align="center">
     Personal Website - V2
 </h1>
-    ![Hero section](https://imgur.com/a/wsT5q0G).
 
 
 
