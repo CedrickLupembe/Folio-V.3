@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
     #cedricklupembe.netlify.app - v2
-</p>
+</h1>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
