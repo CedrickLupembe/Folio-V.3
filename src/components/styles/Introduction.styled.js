@@ -92,7 +92,7 @@ export const FrontEnd = styled.div`
 
                 a{
                     margin-top: 15px;
-                    font-size: 14px;
+                    font-size: 12px;
                 }
 
             }
@@ -112,7 +112,7 @@ export const FrontEnd = styled.div`
 
                 a{
                     margin-top: 40px;
-                    font-size: 18px;
+                    font-size: 14px;
                 }
             }
 
@@ -158,7 +158,7 @@ export const Design = styled.div`
 
         a{
             margin-top: 15px;
-            font-size: 15px;
+            font-size: 12px;
         }
 
         }
@@ -179,7 +179,7 @@ export const Design = styled.div`
 
             a{
                 margin-top: 40px;
-                font-size: 18px;
+                font-size: 14px;
             }
         }
 
@@ -223,7 +223,7 @@ export const Blogger = styled.div`
 
         a{
             margin-top: 15px;
-            font-size: 14px;
+            font-size: 12px;
         }
 
     }
@@ -244,7 +244,7 @@ export const Blogger = styled.div`
    
                a{
                    margin-top: 40px;
-                   font-size: 18px;
+                   font-size: 14px;
                }
            }
 

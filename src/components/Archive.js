@@ -35,7 +35,7 @@ const Archive = () => {
                 <a href="/" 
                     data-aos="fade-up" 
                     data-aos-anchor-placement="center-bottom">
-                    view the archives
+                    view the archive
                 </a>
 
             </Titles>
@@ -267,10 +267,12 @@ const Archive = () => {
                         </span>
                     </Div3>
 
-                        <h1><a href={Media__links.FolioV1} target='_blank' rel='noreferrer'>Portfolio V1.</a></h1>
+                        <h1><a href={Media__links.FolioV1} target='_blank' rel='noreferrer'>Folio V.1</a></h1>
 
                         <p>
                             First iteration of my personal website.
+                            I had a lot of fun creating it and i plan 
+                            to add transitions and animations along the line.
                         </p>
 
                         <ul>

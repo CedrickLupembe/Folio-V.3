@@ -62,7 +62,7 @@ const Navbar = () => {
                 <li data-aos="fade-down"
                     data-aos-easing="linear"
                     data-aos-duration="1400">
-                    <a href="#Works">Works</a>
+                    <a href="#Works">Work</a>
                 </li>
 
                 <li data-aos="fade-down"
