@@ -2,7 +2,7 @@ import React from 'react'
 import { useState } from 'react'
 
 import { Span, MenuMobile, Overlay, List, BurgerMenu } from './styles/Hambourgermenu.styled'
-
+import resume from '../Documents/resume-cedrick-lupembe.pdf'
 
 const Hambourger = () => {
 
@@ -31,7 +31,7 @@ const Hambourger = () => {
                       <a href="#Contact">Contact</a>
                     </List>
 
-                    <span><a href="/">Resume</a></span>
+                    <span><a href={resume} target='_blank' rel='noreferrer' download='resume-cedrick-lupembe'>Resume</a></span>
 
               </MenuMobile>
 

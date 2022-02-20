@@ -271,7 +271,7 @@ const Archive = () => {
 
                         <p>
                             First iteration of my personal website.
-                            I had a lot of fun creating it and i plan 
+                            I had a lot of fun creating it and I plan 
                             to add transitions and animations along the line.
                         </p>
 
