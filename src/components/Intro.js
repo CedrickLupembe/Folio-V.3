@@ -134,7 +134,7 @@ const Intro = () => {
           <br />
           With 3+ years of experience leveraging Javascript MERN stack to build
           responsive web and mobiles apps, and interactive features that drive
-          business growth and improve UX.
+          business growth and improve UX/UI.
         </p>
 
         <p data-aos="fade-up">
