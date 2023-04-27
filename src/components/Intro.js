@@ -130,16 +130,16 @@ const Intro = () => {
         </h1>
 
         <p data-aos="fade-up" data-aos-anchor-placement="center-bottom">
-          A Creative senior software developer.
+          A Creative software developer.
           <br />
-          With 3+ years of experience leveraging Javascript (MERN stack) to
-          build responsive web and mobiles apps, and interactive features thet
-          drive business growth and improve UX.
+          With 3+ years of experience leveraging Javascript MERN stack to build
+          responsive web and mobiles apps, and interactive features that drive
+          business growth and improve UX.
         </p>
 
         <p data-aos="fade-up">
           Well-organized person, problem solver, independent developer with high
-          attention to detail.
+          attention to details.
         </p>
 
         <p data-aos="fade-up">
