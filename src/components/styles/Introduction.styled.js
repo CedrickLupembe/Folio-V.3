@@ -413,7 +413,7 @@ export const TechoSection = styled.div`
 
   li {
     padding-left: 20px;
-    margin-top: 10px;
+    margin-top: 15px;
     font-family: var(--titles);
     font-size: 14px;
     color: var(--secondary-text);
