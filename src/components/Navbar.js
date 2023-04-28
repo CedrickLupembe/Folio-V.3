@@ -3,12 +3,14 @@ import { useEffect, useState } from "react";
 import { Navigation, Media } from "./styles/Navbar.styled";
 
 import { IconContext } from "react-icons";
-import { GrTwitter } from "react-icons/gr";
 import { AiFillGithub } from "react-icons/ai";
 import { GoMail } from "react-icons/go";
 
 import Hambourger from "./Hambourger";
 import Media__links from "./Medias/Links";
+
+// Image navbar
+import me from "../Images/me.svg";
 
 import AOS from "aos";
 import "aos/dist/aos.css";
@@ -39,7 +41,14 @@ const Navbar = () => {
       className={change ? "navbar colorChange" : "none"}
     >
       <h1>
-        <a href="#Hero">Ced.</a>
+        {/* <a href="#Hero">Ced.</a> */}
+        {change ? (
+          <a href="#Hero">
+            <img src={me} alt="" />
+          </a>
+        ) : (
+          <a href="#Hero">Ced.</a>
+        )}
       </h1>
 
       <ul>

@@ -28,7 +28,7 @@ const Hero = () => {
       <BannerHero>
         <LeftHero>
           <span data-aos="fade-up" data-aos-anchor-placement="bottom-bottom">
-            Front-End UI Developer
+            UI Software Developer
           </span>
 
           <blockquote

@@ -18,6 +18,12 @@ export const Navigation = styled.nav`
 
     a {
       color: var(--secondary-text);
+
+      img {
+        width: 40px;
+        height: auto;
+        object-fit: cover;
+      }
     }
   }
 
