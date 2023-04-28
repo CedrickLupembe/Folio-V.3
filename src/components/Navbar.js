@@ -44,7 +44,8 @@ const Navbar = () => {
         {/* <a href="#Hero">Ced.</a> */}
         {change ? (
           <a href="#Hero">
-            <img src={me} alt="" />
+            <img src={me} alt="Avatar Author." />
+            <span>Ced.</span>
           </a>
         ) : (
           <a href="#Hero">Ced.</a>

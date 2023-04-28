@@ -18,11 +18,20 @@ export const Navigation = styled.nav`
 
     a {
       color: var(--secondary-text);
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+      /* background-color: red; */
 
       img {
         width: 40px;
         height: auto;
         object-fit: cover;
+      }
+
+      span {
+        margin-top: 10px;
+        margin-left: 8px;
       }
     }
   }
