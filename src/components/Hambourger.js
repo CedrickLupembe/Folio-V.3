@@ -7,8 +7,14 @@ import {
   Overlay,
   List,
   BurgerMenu,
+  Footer,
 } from "./styles/Hambourgermenu.styled";
 import resume from "../Documents/resume-cedrick-lupembe.pdf";
+
+import Media__links from "./Medias/Links";
+
+// Icons
+import { FiGithub, FiTwitter, FiLinkedin } from "react-icons/fi";
 
 const Hambourger = () => {
   const [showMenu, setShowMenu] = useState(false);
@@ -49,6 +55,37 @@ const Hambourger = () => {
             Resume
           </a>
         </span>
+
+        <Footer>
+          <div>
+            <p>Find me in:</p>
+          </div>
+          <div>
+            <a
+              href={Media__links.Linkedin}
+              target="_blank"
+              rel="noreferrer"
+              className="Links"
+            >
+              <FiLinkedin />
+            </a>
+          </div>
+          <div>
+            <a
+              href={Media__links.Twitter}
+              target="_blank"
+              rel="noreferrer"
+              className="Links"
+            >
+              <FiTwitter />
+            </a>
+          </div>
+          <div>
+            <a href={Media__links.Github} target="_blank" rel="noreferrer">
+              <FiGithub />
+            </a>
+          </div>
+        </Footer>
       </MenuMobile>
     );
 

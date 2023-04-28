@@ -1,6 +1,5 @@
 import { createGlobalStyle } from "styled-components";
 
-
 const GlobalStyle = createGlobalStyle`
 
 /* Css variables */
@@ -116,7 +115,6 @@ ul{
 }
 
 
-`
+`;
 
-
-export default GlobalStyle
+export default GlobalStyle;

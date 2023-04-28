@@ -41,7 +41,6 @@ const Navbar = () => {
       className={change ? "navbar colorChange" : "none"}
     >
       <h1>
-        {/* <a href="#Hero">Ced.</a> */}
         {change ? (
           <a href="#Hero">
             <img src={me} alt="Avatar Author." />

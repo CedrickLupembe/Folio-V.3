@@ -113,3 +113,33 @@ export const BurgerMenu = styled.div`
     }
   }
 `;
+
+export const Footer = styled.div`
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 50px;
+  border-top: 1px solid #3c4d5e;
+  display: grid;
+  grid-template-columns: 4fr 1fr 1fr 1fr;
+  /* flex: 50% 16% 16% 16%; */
+
+  div {
+    border-right: 1px solid #3c4d5e;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--primary-text);
+
+    a {
+      color: var(--primary-text);
+      transition: all 0.7s ease-in-out;
+
+      :hover {
+        color: var(--secondary);
+      }
+    }
+  }
+`;

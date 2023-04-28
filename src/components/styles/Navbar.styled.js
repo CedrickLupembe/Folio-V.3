@@ -15,6 +15,7 @@ export const Navigation = styled.nav`
     font-size: 27px;
     font-weight: 700;
     font-family: var(--paragraph);
+    z-index: 960 !important;
 
     a {
       color: var(--secondary-text);
