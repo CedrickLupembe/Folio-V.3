@@ -1,25 +1,29 @@
 {
   "short_name": "Cedrick",
-  "name": "Cedrick Lupembe",
+  "name": "Cedrick Portfolio",
   "icons": [
     {
       "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "type": "image/x-icon",
+      "purpose": "any maskable"
     },
     {
-      "src": "me.jpg",
-      "type": "image/jpg",
-      "sizes": "192x192"
+      "src": "me.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
     },
     {
-      "src": "me.jpg",
-      "type": "image/jpg",
-      "sizes": "512x512"
+      "src": "me-large.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
     }
   ],
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#ffff",
-  "background_color": "#2D2E32"
+  "background_color": "#2D2E32",
+  "prefer_related_applications": true
 }
