@@ -2,7 +2,7 @@
     Personal Website - V3
 </h1>
 
-<h4 align="center">The third iteration of <a href="https://cedricklupembe.netlify.app/">cedricklupembe.com</a> built with <a href="https://reactjs.org/docs/getting-started.html">React</a> and hosted with <a href="https://www.netlify.com/">Netlify</a>
+<h4 align="center">The third iteration of <a href="https://cedricklupembe.netlify.app/">cedricklupembe.com</a> built with <a href="https://reactjs.org/docs/getting-started.html">React</a> and hosted with <a href="https://www.vercel.com/">vercel</a>
 
 Itérations précédentes :  <a href="https://cedricklupembe.github.io/">V1</a>, <a href="https://cedricklupembe.github.io/Folio-Version-2/">V2</a></h4>
 
