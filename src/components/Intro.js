@@ -126,7 +126,7 @@ const Intro = () => {
         </span>
 
         <h1 data-aos="fade-up" data-aos-anchor-placement="center-bottom">
-          Hey, I’m Cedrick Lupembe 
+          Hey, I’m Cedrick 👋 
         </h1>
 
         <p data-aos="fade-up" data-aos-anchor-placement="center-bottom">
